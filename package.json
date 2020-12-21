@@ -1,5 +1,6 @@
 {
-  "name": "landingpage-react-template",
+  "name": "kenntravel2",
+  "homepage": "https://JackyChiu1024.github.io/kenntravel2",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
