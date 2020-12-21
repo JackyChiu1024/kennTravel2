@@ -23,3 +23,35 @@ You can also change styles by modifying the ```public/css``` files.
 <a href="https://www.free-css.com/assets/files/free-css-templates/preview/page234/interact/">Free-CSS.com </a>
 
 ##### Issaaf kattan
+
+
+## deploy to gitpage
+### 1. npm init 
+run> npm init react-app <app-name>
+
+### 2. install gh-pages
+run> npm install gh-pages --save-dev
+
+### 3. modify package.json
+add homepage, e.g,  
+  "name": "kenntravel2",
+  "homepage": "http://www.kenntravel.rf.gd",
+  "private": true,
+
+add predeploy and deploy script
+
+  "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+
+  ### 4. deploy
+  run> npm run deploy
+
+  ## install package
+  npm install react-scripts --save
+  npm install -g yarn
