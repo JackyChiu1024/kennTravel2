@@ -34,8 +34,8 @@ run> npm install gh-pages --save-dev
 
 ### 3. modify package.json
 add homepage, e.g,  
-  "name": "kenntravel2",
-  "homepage": "http://www.kenntravel.rf.gd",
+  "name": "kenntravel2",  //repository name
+  "homepage": "http://www.kenntravel.rf.gd",  // or https://{account}.github.io/{repository name}
   "private": true,
 
 add predeploy and deploy script
@@ -50,6 +50,7 @@ add predeploy and deploy script
   },
 
   ### 4. deploy
+  run> npm run build
   run> npm run deploy
 
   ## install package

@@ -30,37 +30,37 @@ export class Navigation extends Component {
             <ul className="nav navbar-nav navbar-right">
               <li>
                 <a href="#features" className="page-scroll">
-                  Features
+                肯定要追隨
                 </a>
               </li>
               <li>
                 <a href="#about" className="page-scroll">
-                  About
+                  肯定要知道
                 </a>
               </li>
               <li>
                 <a href="#services" className="page-scroll">
-                  Services
+                  肯定要服務
                 </a>
               </li>
               <li>
                 <a href="#portfolio" className="page-scroll">
-                  Gallery
+                  肯定要曬圖
                 </a>
               </li>
               <li>
                 <a href="#testimonials" className="page-scroll">
-                  Testimonials
+                  肯定要媒體
                 </a>
               </li>
               <li>
                 <a href="#team" className="page-scroll">
-                  Team
+                  肯定要團隊
                 </a>
               </li>
               <li>
                 <a href="#contact" className="page-scroll">
-                  Contact
+                肯定要連絡
                 </a>
               </li>
             </ul>

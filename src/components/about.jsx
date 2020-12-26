@@ -9,9 +9,9 @@ export class about extends Component {
             <div className="col-xs-12 col-md-6"> <img src="img/about.jpg" className="img-responsive" alt=""/> </div>
             <div className="col-xs-12 col-md-6">
               <div className="about-text">
-                <h2>關於我們</h2>
+                <h2>肯定要知道</h2>
                 <p>{this.props.data ? this.props.data.paragraph : 'loading...'}</p>
-                <h3>Why Choose Us?</h3>
+                <h3>支持我們的八大理由</h3>
                 <div className="list-style">
                   <div className="col-lg-6 col-sm-6 col-xs-12">
                     <ul>
