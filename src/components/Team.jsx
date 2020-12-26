@@ -6,7 +6,7 @@ export class Team extends Component {
       <div id="team" className="text-center">
         <div className="container">
           <div className="col-md-8 col-md-offset-2 section-title">
-            <h2>肯定要團隊</h2>
+            <h2>肯定要介紹</h2>
             <p>
               團隊成員介紹
             </p>

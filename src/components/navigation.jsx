@@ -60,7 +60,7 @@ export class Navigation extends Component {
               </li>
               <li>
                 <a href="#team" className="page-scroll">
-                  肯定要團隊
+                  肯定要介紹
                 </a>
               </li>
               <li>
