@@ -20,7 +20,7 @@ export class Header extends Component {
                     href="#features"
                     className="btn btn-custom btn-lg page-scroll"
                   >
-                    Learn More
+                    沒用到就拿掉按鈕
                   </a>{" "}
                 </div>
               </div>

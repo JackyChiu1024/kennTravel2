@@ -50,7 +50,7 @@ export class Navigation extends Component {
               </li>
               <li>
                 <a href="#testimonials" className="page-scroll">
-                  肯定要媒體
+                肯定要指教
                 </a>
               </li>
               <li>
