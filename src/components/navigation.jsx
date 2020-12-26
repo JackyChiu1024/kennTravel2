@@ -21,6 +21,11 @@ export class Navigation extends Component {
             <a className="navbar-brand page-scroll" href="#page-top">
               肯定要旅行
             </a>{" "}
+            <img
+                   src="img/navIcon.jpg"
+                  className="icon-bar"
+                        alt="nav-icon"
+                      />{" "}
           </div>
 
           <div
